@@ -4,4 +4,4 @@ CREATE TABLE Users(
     FIRST_Name VARCHAR(255),
     Address VARCHAR(255),
     CITY VARCHAR(255),
-)
+);
